@@ -198,7 +198,7 @@ class WeatherETL:
 
 def main():
     # OpenWeatherMap API key (free tier)
-    API_KEY = "1635890035cbba097fd5c26c8ea672a1"
+    API_KEY = "ADD_OPENWEATHERMAP_API_KEY_HERE"
     # Initialize ETL pipeline
     weather_etl = WeatherETL(API_KEY)
     locations = list(set(weather_etl.maharashtra_districts + weather_etl.nashik_subdistricts))
@@ -221,3 +221,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
