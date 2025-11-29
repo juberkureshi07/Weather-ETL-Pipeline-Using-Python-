@@ -43,7 +43,7 @@ Build an ETL system using:
 ## 📂 Project Structure
 
 ```
-weather-etl/
+Weather-ETL-Pipeline-Using-Python-/
 │
 ├── Weather_ETL.py
 ├── README.md
