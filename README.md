@@ -49,7 +49,6 @@ Weather-ETL-Pipeline-Using-Python-/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── .env.example
 │
 └── output/
       ├── weather_YYYYMMDD_HHMM.csv
